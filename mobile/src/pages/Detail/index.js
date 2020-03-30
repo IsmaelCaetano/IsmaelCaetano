@@ -29,7 +29,7 @@ export default function Detail(){
     }
 
     function sendWhatsapp(){
-        Linking.openURL(`whatsapp://send?phone=${incident.whatsapp}&text=${massage}`);
+        Linking.openURL(`whatsapp://send?phone=55${incident.whatsapp}&text=${massage}`);
 
     }
 
@@ -47,8 +47,8 @@ export default function Detail(){
                 <Text style={styles.incidentProperty, {marginTop: 0}}>ONG:</Text>
                     <Text style={styles.incidentValue}>{incident.name} de {incident.city}/{incident.uf} </Text> 
 
-                    <Text style={styles.incidentProperty}>CASO:</Text>
-                    <Text style={styles.incidentValue}>{incident.title}</Text>
+                    <Text style={styles.incidentProperty}>CASO:{incident.title}</Text>
+                    <Text style={styles.incidentValue}>{incident.description}</Text>
 
                     <Text style={styles.incidentProperty}>VALOR:</Text>
                     <Text style={styles.incidentValue}>
