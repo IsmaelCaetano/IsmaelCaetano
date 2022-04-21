@@ -5,7 +5,8 @@ I am Ismael Caetano,<br>
 Graduated in IT Technician by <a href="https://ifes.edu.br/o-ifes">IFES</a> 🖥️, <br>
 Computer Engineering Student at Multivix,<br>
 I'm passionate about innovation and I'm learning to express it with development,<br>
-Focused on studying web development:<br>
+Focused on Studying developer at rocketseat.<br><br>
+
 ## 🌍 Languages<br>
 <div>
   <img align="centeer" alt"Ismael-html" height="40" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
