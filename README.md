@@ -29,8 +29,8 @@ Focused on Studying developer at rocketseat.<br><br>
 ## GitHub Stats 📊
 <div>
   
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IsmaelCaetano&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelCaetano&layout=compact&theme=tokyonight"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=IsmaelCaetano&show_icons=true&theme=tokyonight"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsmaelCaetano&layout=compact&theme=tokyonight"/>
 
 </div><br><br>
 
