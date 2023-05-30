@@ -12,7 +12,11 @@ Focused on Studying developer at rocketseat.<br><br>
   <img align="centeer" alt"Ismael-html" height="40" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
   <img align="centeer" alt"Ismael-css" height="40" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
   <img align="centeer" alt"Ismael-js" height="40" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+  <img align="centeer" alt"Ismael-py" height="40" widht="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
 </div><br><br>
+
+
 
 ## 🧩 Libraries & Framework<br>
 <div>
