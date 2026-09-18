@@ -64,13 +64,50 @@ I work across the full BI lifecycle: requirements gathering, data extraction and
 
 ## Professional experience
 
-### Data Analyst Jr. · Provider, allocated to EDP
-**January 2023 - Present · Espírito Santo, Brazil**
+### Data Analyst Jr. | EDP Brasil
+**May 2026 – Present · Espírito Santo, Brazil**
 
-- Develop and support end-to-end BI solutions, from extraction and transformation to modeling, dashboards, publishing, and Power BI Service management.
-- Build and maintain SQL procedures, views, tables, and operational data routines.
-- Investigate dependencies and reverse-engineer legacy databases and processes.
-- Partner directly with operational teams to translate real-world needs into practical data solutions.
+- Develop and support end-to-end data and BI solutions for operational areas.
+- Build and maintain SQL Server and Oracle/PLSQL queries, procedures, views, and data pipelines.
+- Develop Power BI dashboards and analytical solutions used to support operational decision-making.
+- Automate data processes and recurring operational tasks using Python and other tools.
+- Work with Databricks as part of data migration and modernization initiatives.
+- Analyze legacy databases, dependencies, business rules, and data flows during system migrations.
+- Optimize SQL queries and data processes, including reducing execution times from over 15 minutes to around 1 minute in specific cases.
+- Support the migration of 20+ dashboards and data sources from legacy Oracle/PLSQL environments to modern data platforms.
+- Partner directly with operational teams to understand real-world problems and translate them into practical data solutions.
+
+### Junior Data Analyst | NIP do Brasil — allocated to EDP
+**May 2024 – May 2026 · Espírito Santo, Brazil**
+
+- Developed and maintained operational reports and Power BI dashboards.
+- Created SQL Server and Oracle queries for data extraction, transformation, validation, and analysis.
+- Automated recurring processes and operational routines.
+- Investigated data inconsistencies and supported improvements in data quality.
+- Supported operational teams with data analysis, reporting, and process improvement initiatives.
+- Maintained and evolved existing BI and database solutions within the EDP environment.
+
+### Junior Data Analyst | Grupo Provider — allocated to EDP
+**September 2023 – May 2024 · Espírito Santo, Brazil**
+
+- Transitioned from operational support into a data-focused role within the EDP project.
+- Developed SQL queries and operational reports to support business teams.
+- Worked with Power BI, SQL Server, Oracle databases, and operational data.
+- Supported data extraction, validation, troubleshooting, and reporting activities.
+- Helped identify opportunities to automate manual processes and improve operational efficiency.
+
+### Customer Support Analyst I | Grupo Provider — allocated to EDP
+**January 2023 – August 2023 · Espírito Santo, Brazil**
+
+- Supported operational activities and internal processes within the EDP project.
+- Worked directly with operational systems, processes, and business users.
+- Investigated incidents, data issues, and process inconsistencies.
+- Built the operational and business knowledge that later supported the transition into a Data Analyst role.
+
+### Technical Maintenance | Medical Plus
+**2019 – December 2022 · Brazil**
+
+Performed preventive and corrective maintenance on Canon ultrasound equipment, developing technical troubleshooting, analytical thinking, operational discipline, and problem-solving skills.
 
 ### Technical Maintenance · Medical Plus
 **2019 - December 2022 · Brazil**
